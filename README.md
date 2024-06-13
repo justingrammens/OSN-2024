@@ -23,4 +23,4 @@ Additional Links:
 * [PlantUML](https://plantuml-editor.kkeisuke.com/)
 * [The Coming Wave](https://www.the-coming-wave.com/)
 
-NOTE: Audience photograph courtesy of [Neil Buesing](https://www.linkedin.com/posts/nbuesing_excellent-talk-by-justin-grammens-at-open-activity-7204148270636421121-fRk-?utm_source=share&utm_medium=member_desktop)
+NOTE: Audience image courtesy of [Neil Buesing](https://www.linkedin.com/posts/nbuesing_excellent-talk-by-justin-grammens-at-open-activity-7204148270636421121-fRk-?utm_source=share&utm_medium=member_desktop)
